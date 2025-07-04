@@ -1,4 +1,4 @@
-# DSA_Placement_C-
+# DSA_Placement_C++
 
 This repository contains my practice programs for **Data Structures and Algorithms (DSA)** using **C++**.  
 It includes code written during my placement preparation and learning journey.
